@@ -12,10 +12,10 @@ por ejemplo, podriamos auditar el comando ls solo pasandolo como argumento
 
 ![alt tag](https://github.com/pastaCLS/michifuzz/blob/master/img/ls.png)
 
-recientemente me han llegado diversos mails a mi cuenta de correo asegurando que estoy plageando un proyecto y adjuntando la siguiente prueba
+recientemente me han llegado diversos mails a mi cuenta de correo asegurando que estoy plagiando un proyecto y me adjuntan las siguientes imagenes de un analisis de IDA
 
 ![alt tag](https://github.com/pastaCLS/michifuzz/blob/master/img/plagio.png)
 
 los invito a mirar mi codigo fuente, y en todo caso quejarse por el tipo de licencia que tiene el proyecto
 
-NOTA: este proyecto es una broma para el CLS exploits ;)
+NOTA: este proyecto es una broma para CLS exploits ;)
