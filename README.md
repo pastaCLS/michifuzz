@@ -16,6 +16,5 @@ recientemente me han llegado diversos mails a mi cuenta de correo asegurando que
 
 ![alt tag](https://github.com/pastaCLS/michifuzz/blob/master/img/plagio.png)
 
-los invito a mirar mi codigo fuente, y en todo caso quejarse por el tipo de licencia que tiene el proyecto
+ante esas acusasiones he decidido liberar el proyecto
 
-NOTA: este proyecto es una broma para CLS exploits ;)
